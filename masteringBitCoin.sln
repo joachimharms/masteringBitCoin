@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masteringBitCoin", "masteringBitCoin\masteringBitCoin.csproj", "{9729CE25-327E-4D2C-8A9E-09D69CC82C8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBitcoinExperiments", "MyBitcoinExperiments\MyBitcoinExperiments.csproj", "{D910A504-CA4D-408E-BD79-B8EBEA2AE9DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9729CE25-327E-4D2C-8A9E-09D69CC82C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9729CE25-327E-4D2C-8A9E-09D69CC82C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9729CE25-327E-4D2C-8A9E-09D69CC82C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D910A504-CA4D-408E-BD79-B8EBEA2AE9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D910A504-CA4D-408E-BD79-B8EBEA2AE9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D910A504-CA4D-408E-BD79-B8EBEA2AE9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D910A504-CA4D-408E-BD79-B8EBEA2AE9DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
