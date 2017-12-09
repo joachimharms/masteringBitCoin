@@ -26,6 +26,7 @@ namespace masteringBitCoin
             var data = RequestServer("getinfo");
             Console.WriteLine(data);
             Console.ReadKey();
+
         }
 
         //// Es fehlt noch eine Liste mit Parametern übergeben zu können bei Übergabe der Methode:
