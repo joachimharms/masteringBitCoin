@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masteringBitCoin", "masteringBitCoin\masteringBitCoin.csproj", "{9729CE25-327E-4D2C-8A9E-09D69CC82C8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_Basic_Api_Calls", "masteringBitCoin\C03_Basic_Api_Calls.csproj", "{9729CE25-327E-4D2C-8A9E-09D69CC82C8D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBitcoinExperiments", "MyBitcoinExperiments\MyBitcoinExperiments.csproj", "{D910A504-CA4D-408E-BD79-B8EBEA2AE9DF}"
 EndProject
